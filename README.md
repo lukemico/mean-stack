@@ -49,10 +49,10 @@ View the [Live Demo](https://mean-stack-contact-app.herokuapp.com/) here.
 
 
 ## Built With
-[MondoDB](https://www.mongodb.com/) - the database that handles field, range query, and regular expression searches. 
-[Express](https://expressjs.com/) - the de facto standard server framework for Node.js, it is the backend part of the MEAN stack. 
-[Angular](https://angular.io/) - a JavaScript-based front-end web application framework for developing single-page applications. 
-[Node JS](https://nodejs.org/en/) - a cross-platform JavaScript run-time environment that executes JavaScript code outside the browser. 
+* [MondoDB](https://www.mongodb.com/) - the database that handles field, range query, and regular expression searches. 
+* [Express](https://expressjs.com/) - the de facto standard server framework for Node.js, it is the backend part of the MEAN stack. 
+* [Angular](https://angular.io/) - a JavaScript-based front-end web application framework for developing single-page applications. 
+* [Node JS](https://nodejs.org/en/) - a cross-platform JavaScript run-time environment that executes JavaScript code outside the browser. 
 
 
 ## Versioning
